@@ -1,0 +1,6 @@
+{
+  "name": "Personal Growth App",
+  "description": "An interactive, full-stack personal development application with AI daily recommendations, streak tracking, interactive growth sessions, a skill progress dashboard, and an AI growth coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
